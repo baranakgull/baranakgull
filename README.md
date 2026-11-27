@@ -1,4 +1,4 @@
-## Hi, I'm Baran 👋
+## Hi, I'm Baran 
 
 Computer Engineer focused on **AI assistants**, with a strong interest in **cybersecurity** and **backend systems**.
 I have a solid foundation across the areas below and keep growing in each of them, actively taking courses on Coursera.
